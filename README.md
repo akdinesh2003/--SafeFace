@@ -197,3 +197,7 @@ Feel free to submit issues, feature requests, or pull requests to improve the pr
 ---
 
 **Note**: This is a demonstration project. For production use, consider training the models on a larger, more diverse dataset for better accuracy across different lighting conditions, mask types, and face orientations.
+
+## Author
+
+AK DINESH   https://github.com/akdinesh2003
